@@ -136,8 +136,6 @@ http://39.134.169.184:6060/050000001888/5000000188800000054/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",北京卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",江苏优漫卡通
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",湖南金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 
@@ -203,6 +201,21 @@ http://39.134.169.184:6060/050000001888/5000000188800000191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中央新影",中学生
 http://39.134.169.184:6060/050000001888/5000000188800000167/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" group-title="内蒙古",内蒙古新闻综合
+http://39.134.169.184:6060/050000001888/5000000188800000121/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" group-title="内蒙古",内蒙古经济生活
+http://39.134.169.184:6060/050000001888/5000000188800000137/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" group-title="内蒙古",内蒙古少儿频道
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" group-title="内蒙古",内蒙古文体娱乐
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" group-title="内蒙古",内蒙古农牧频道
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语卫视.png" tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" group-title="内蒙古",内蒙古蒙语卫视
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" group-title="内蒙古",内蒙古蒙语文化
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内蒙古",内蒙儿童秀场
 http://39.134.169.184:6060/050000001888/5000000188800000185/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内蒙古",内蒙古装巨制
@@ -235,8 +248,7 @@ http://39.134.169.184:6060/050000001888/5000000188800000149/index.m3u8
 http://39.134.169.184:6060/050000001888/5000000188800000151/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内蒙古",XATV-2文化旅游
 http://39.134.169.184:6060/050000001888/5000000188800000150/index.m3u8
-#EXTINF:-1 group-title="= 内蒙古 =",新闻综合
-http://39.134.169.184:6060/050000001888/5000000188800000121/index.m3u8
+
 #EXTINF:-1 group-title="= 内蒙古 =",都市生活
 http://39.134.169.184:6060/050000001888/5000000188800000122/index.m3u8
 #EXTINF:-1 group-title="= 内蒙古 =",影视娱乐
@@ -259,8 +271,6 @@ http://39.134.169.184:6060/050000001888/5000000188800000131/index.m3u8
 http://39.134.169.184:6060/050000001888/5000000188800000132/index.m3u8
 #EXTINF:-1 group-title="= 内蒙古 =",新闻综合
 http://39.134.169.184:6060/050000001888/5000000188800000136/index.m3u8
-#EXTINF:-1 group-title="= 内蒙古 =",经济生活
-http://39.134.169.184:6060/050000001888/5000000188800000137/index.m3u8
 #EXTINF:-1 group-title="= 内蒙古 =",新闻综合
 http://39.134.169.184:6060/050000001888/5000000188800000138/index.m3u8
 #EXTINF:-1 group-title="= 内蒙古 =",经济生活
@@ -341,6 +351,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑龙江",未知新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
 
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",江苏优漫卡通
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 group-title="地方",城固
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
 #EXTINF:-1 group-title="地方",乐游
@@ -370,7 +382,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
 #EXTINF:-1 group-title="地方",386号
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳",凤凰中文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
@@ -590,7 +602,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",内蒙儿童秀场
 http://39.134.169.184:6060/050000001888/5000000188800000185/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑龙江",黑龙江少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
