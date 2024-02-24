@@ -206,13 +206,13 @@ http://39.134.169.184:6060/050000001888/5000000188800000121/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" group-title="内蒙古",内蒙古经济生活
 http://39.134.169.184:6060/050000001888/5000000188800000137/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" group-title="内蒙古",内蒙古少儿频道
-
+http://1.30.178.41:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" group-title="内蒙古",内蒙古文体娱乐
-
+http://1.30.178.41:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" group-title="内蒙古",内蒙古农牧频道
-
+http://1.30.178.41:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语卫视.png" tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" group-title="内蒙古",内蒙古蒙语卫视
-
+http://1.30.178.41:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" group-title="内蒙古",内蒙古蒙语文化
 
 
